@@ -1,6 +1,0 @@
-#Google Auth
-https://www.codesnail.com/google-authentication-in-django/#google_vignette
-
-
-#Facebook Auth
-https://studygyaan.com/django/how-to-add-social-login-to-django#installation
